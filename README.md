@@ -1,5 +1,8 @@
 # Zepto-Data-Analysis
 
+# Summary
+This Power BI dashboard analyzes retail sales data, focusing on total sales, item types, outlet performance, and key metrics. I chose this dataset to explore trends in sales, outlet sizes, and customer preferences using interactive visualizations, DAX calculations, and filters for insightful business decision-making. Optimized for clarity and performance. 🚀
+
 # DAX (Data Analysis Expressions) for Measures & Calculations
 1. Avg Rating = AVERAGE('Zepto Grocery Data'[Rating])
 2. Avg Sales = AVERAGE('Zepto Grocery Data'[Sales])
