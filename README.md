@@ -25,10 +25,15 @@ Different colors for various outlet sizes in the pie chart.
 Conditional formatting in the matrix table for Avg Sales and Item Visibility.
 
 Metrics = {
+
     ("Total Sales", NAMEOF('Zepto Grocery Data'[Total Sales]), 0),
+
     ("Avg Sales", NAMEOF('Zepto Grocery Data'[Avg Sales]), 1),
+    
     ("No of Items", NAMEOF('Zepto Grocery Data'[No of Items]), 2),
+    
     ("Avg Rating", NAMEOF('Zepto Grocery Data'[Avg Rating]), 3)
+
 }
 -----------------------------------------------------------------------------
 
