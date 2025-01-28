@@ -66,3 +66,7 @@ Answer: Medium-sized outlets contribute the most, with $444.79K in total sales.
 
 10. How does the fat content of products affect average sales?
 Answer: There is no significant difference; Regular fat content products have an average sales value of $141, while Low Fat products have $142.
+
+
+# Dashboard 
+![image](https://github.com/user-attachments/assets/ba195161-5c86-4b77-8a31-03491e6d4d60)
